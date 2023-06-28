@@ -12,3 +12,5 @@ Taking into account the population, including people who tested positive for COV
 - pneumonia;
 - high blood pressure;
 - diabetes.
+- 
+Note: to check the correct operation of the codes in the Covid_data file, download the database from Kaggle. The file is too large to be uploaded to Git Hub.
