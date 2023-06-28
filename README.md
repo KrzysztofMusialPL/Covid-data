@@ -1,2 +1,2 @@
 # Covid-data
-Opracowanie na podstawie zbioru danych z Kaggle, mające ustalenie zależności śmiertelności chorych na COVID-19 od różnych czynników oraz ustalenie TOP 3 chorób współistniejących dla wysokiej śmiertelności chorych na COVID - 19. 
+A study based on the Kaggle data set, aimed at determining the dependence of COVID-19 mortality on various factors and determining the TOP 3 comorbidities for high mortality of COVID-19 patients.
